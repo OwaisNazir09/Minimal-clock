@@ -14,9 +14,10 @@ Minimal Clock is a simple, minimalist clock application designed to provide an a
 
 ## Clone the Repository
 
-```bash
+
 git clone https://github.com/OwaisNazir09/Minimal-clock.git
 cd Minimal-clock
+
 ## Display Format
 
  the clock starts in 12-hour format. To switch to 12-hour format
