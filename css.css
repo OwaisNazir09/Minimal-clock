@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+    color: black;
+}
+
+.clock-container {
+    display: flex;
+    background-color: #000;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.bigbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 200px;
+    margin: 10px;
+    color: white;
+    font-size: 7em;
+    border-radius: 5%;
+    background-color: #000;
+}
+
+.smallbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    color: rgb(14, 13, 13);
+}
+
+.dot {
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+
+.innerbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
