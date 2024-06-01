@@ -12,7 +12,7 @@ Minimal Clock is a simple, minimalist clock application designed to provide an a
 - **Lightweight**: Minimal resource usage to keep your system running smoothly.
 - **Responsive**: Adapts to various screen sizes and devices.
 
-### Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/OwaisNazir09/Minimal-clock.git
